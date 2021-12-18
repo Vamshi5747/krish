@@ -13,24 +13,24 @@ Natural Language Processing, also known as NLP, is a branch of Artificial Intell
 The dataset was originally made up of 11090 questions (rows) and 5 columns.
 There are 23 different types of questions in total, which are as follows: 
  
-understanding of quadratic equations
-word problem  
-simple system of equations with two variables  
-linear equation in one variable
-knowledge of quadratic equations
-permutations and combinations
-probability
-least common multiple
-knowledge of percentage 
-knowledge of fractions and ratios
-permutations and combinations problem with digits
-knowledge of upstream and downstream speeds
-sequences and progressions
-scaled models and application of scaling
-distance and time
-knowledge of fractions and ratios
-exponential growth and decay
-relative speed
+- understanding of quadratic equations
+- word problem  
+- simple system of equations with two variables  
+- linear equation in one variable
+- knowledge of quadratic equations
+- permutations and combinations
+- probability
+- least common multiple
+- knowledge of percentage 
+- knowledge of fractions and ratios
+- permutations and combinations problem with digits
+- knowledge of upstream and downstream speeds
+- sequences and progressions
+- scaled models and application of scaling
+- distance and time
+- knowledge of fractions and ratios
+- exponential growth and decay
+- relative speed
 forward discount percentage
 mixed fractions
 set theory venn diagram
