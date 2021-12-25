@@ -61,5 +61,33 @@ We can easily classify the questions this way. Giving unusual terms a high prior
 - Lemmatization:
 
 
+# Model 
+###### Linear SVM Classification
+Use a straight line to divide (linearly separable)
+Support Vector Machine, also known as Support Vector Classification, is a supervised and linear Machine Learning algorithm that is commonly used to solve classification problems.
+
+![image](https://user-images.githubusercontent.com/95626757/147388120-9bbfaa62-211a-43f9-994b-b29d98ce75b2.png) 
+
+Tfidf vectors 
+
+![Screen Shot 2021-12-25 at 9 57 27 PM](https://user-images.githubusercontent.com/95626757/147389367-50502726-8adf-41d3-ba43-00b9ea67f012.png)
+
+
+X-axis: TF-iDf ratios
+Y-axis: encoded labels 
+
+![Screen Shot 2021-12-25 at 8 47 45 PM](https://user-images.githubusercontent.com/95626757/147388175-a6acb0cf-2fb1-41da-a12d-af7716a78055.png)
+
+Fitting the training data to the Support Vector Machine after it has been initialised  
+![Screen Shot 2021-12-25 at 9 58 53 PM](https://user-images.githubusercontent.com/95626757/147389384-6ba1e3f3-33a7-471e-9117-85bf9f9a2327.png)
+
+Why i choose this svm model. 
+
+It is capable of solving both linear and nonlinear problems and is useful for a wide range of practical applications. The basic idea behind SVM is straightforward: the algorithm draws a line or a hyperplane that divides the data into classes.
+
+![Screen Shot 2021-12-25 at 10 07 54 PM](https://user-images.githubusercontent.com/95626757/147389522-5bf3b7b9-836e-4ad5-af1b-eb845ec6c9db.png)
+
+
+Identifying and categorising predictors and targets
 
 
